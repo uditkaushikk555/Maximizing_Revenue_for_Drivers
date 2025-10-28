@@ -40,7 +40,7 @@ Unnecessary columns were dropped to focus on the relationship between fare amoun
 
 ---
 
-##Data Cleaning & Preparation
+## Data Cleaning & Preparation
 - Removed missing and duplicate records  
 - Filtered valid payment types (`1: Card`, `2: Cash`)  
 - Excluded invalid values (negative distance, fare, duration)  
@@ -49,7 +49,7 @@ Unnecessary columns were dropped to focus on the relationship between fare amoun
 
 ---
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 - Distribution of fares and trip distances by payment type  
 - Passenger count and payment preferences  
 - Visualization of cash vs. card usage patterns  
@@ -96,6 +96,7 @@ Taxi companies and ride-hailing services can implement **incentives or digital n
 ## Author
 **Udit Kaushik**  
 uditkaushikk555@gmail.com  
-LinkedIn Profile : (https://www.linkedin.com/in/udit-kaushik-883341377)
+[LinkedIn](https://www.linkedin.com/in/udit-kaushik-883341377)  
+
 
 
